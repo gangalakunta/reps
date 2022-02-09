@@ -1,0 +1,33 @@
+#header{
+	color:red;
+	background-color:#339ca8;
+	text-decoration:underline;
+	text-align:center;
+	padding: 10px 20px;
+	
+}
+
+#nav{
+	float:left;
+	width:200px;
+}
+
+#main{
+	float=left;
+	width:800px;
+}
+
+#container{
+	width:1000px;
+	margin:0px auto;
+	color:pink;
+}
+
+#footer{
+	text-align:center;
+	color:blue;
+}
+
+
+
+
